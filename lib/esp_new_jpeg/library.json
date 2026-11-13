@@ -1,0 +1,6 @@
+{
+  "name": "esp_new_jpeg",
+  "version": "1.0.0",
+  "description": "Espressif esp_new_jpeg (prebuilt ESP32-S3 static lib + decoder header), from espressif/esp-adf-libs",
+  "build": { "includeDir": "include" }
+}
